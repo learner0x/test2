@@ -1,3 +1,5 @@
+"Adding copyright notice""
+
 # Read me file
 This shows different parts of GiT repository and various options
 ## Introduction
