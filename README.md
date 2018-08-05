@@ -14,3 +14,5 @@ In time, you will know.
 Change in branch
 
 Changes made in master and again
+
+Rebase conflicts in master
